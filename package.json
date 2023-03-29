@@ -1,7 +1,7 @@
 {
   "name": "dev-setup",
   "version": "1.0.0",
-  "description": "",
+  "description": "boilerplate for fullstack development",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon",
